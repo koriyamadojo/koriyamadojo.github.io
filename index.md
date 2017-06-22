@@ -36,7 +36,7 @@ Google等の協力を得て、2012年10月に 仙台、石巻、滝沢の3会場
 参加方法:ご参加希望の方はこちらのサイトから申し込みをお願いします。
 
 * [東北TECH道場 郡山道場](https://koriyamadojo.connpass.com/)
-    - [東北TECH道場 第３期 郡山道場 第１回](https://koriyamadojo.connpass.com/event/56638/)
+    - [東北TECH道場 第３期 郡山道場](https://koriyamadojo.connpass.com/event/56638/)
 
 ---
 
