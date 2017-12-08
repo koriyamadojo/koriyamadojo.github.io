@@ -6,8 +6,10 @@ title: ホーム
 
 ## ニュース
 
-* 2016/06/05: ブログを更新しました：[郡山道場 第３期 第1回が開催されました](https://medium.com/@koriyamadojo/%E9%83%A1%E5%B1%B1%E9%81%93%E5%A0%B4-%E7%AC%AC%EF%BC%93%E6%9C%9F-%E7%AC%AC1%E5%9B%9E%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F-6f77f86ea936)
-* 2016/06/10: ブログを更新しました：[東北TECH道場 郡山道場 第３期 第2回開催](https://medium.com/@koriyamadojo/%E6%9D%B1%E5%8C%97tech%E9%81%93%E5%A0%B4-%E9%83%A1%E5%B1%B1%E9%81%93%E5%A0%B4-%E7%AC%AC%EF%BC%93%E6%9C%9F-%E7%AC%AC2%E5%9B%9E%E9%96%8B%E5%82%AC-3a0ded4030f3)
+郡山道場の活動はMediumにブログで掲載しています。
+
+* [東北TECH道場 郡山道場ブログ](https://medium.com/@koriyamadojo/)
+
 ---
 
 ## 郡山道場開講
