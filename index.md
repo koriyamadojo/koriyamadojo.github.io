@@ -8,7 +8,7 @@ title: ホーム
 
 郡山道場の活動はMediumにブログで掲載しています。
 
-* [東北TECH道場 郡山道場ブログ](https://medium.com/@koriyamadojo/)
+* [東北TECH道場 郡山道場ブログ](https://medium.com/ttdojo-koriyama)
 
 ---
 
